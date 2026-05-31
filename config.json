@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchprocess",
+        "uuid": 8644680,
+        "checksum": "chbg65"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
